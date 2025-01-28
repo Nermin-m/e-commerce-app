@@ -2,6 +2,9 @@
 -------------------------------------------------------------------------------------------------------------------------------
 ----Home Page---
 ![2025-01-28_23-08-11](https://github.com/user-attachments/assets/8d83def8-7cc0-4693-9339-2c97d41aadef)
+----Shop Page---
+![2025-01-28_23-15-52](https://github.com/user-attachments/assets/6ad41fac-90ff-4146-80ef-7e65e91dca23)
+
 ![2025-01-28_23-01-40](https://github.com/user-attachments/assets/1b909e64-aba7-42f7-9828-366d54342c66)
 ![2025-01-28_23-12-54](https://github.com/user-attachments/assets/d07c0850-f0b2-4cc4-8919-2c3f93cd6d48)
 
